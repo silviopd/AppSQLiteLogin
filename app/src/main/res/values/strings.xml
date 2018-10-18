@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppSQLiteLogin</string>
+
+    <string name="titulo1">ACCESO AL SISTEMA</string>
+    <string name="usuario1">USUARIO</string>
+    <string name="contraseña">CONTRASEÑA</string>
+    <string name="acceder">Acceder</string>
+    <string name="registrar1">Registrar</string>
+
+
+    <string name="titulo2">REGISTRAR USUARIO</string>
+    <string name="nombres">Nombres</string>
+    <string name="usuario2">Usuario</string>
+    <string name="clave">Clave</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="acepta">Estoy de acuerdo con todos los terminos</string>
+    <string name="registrar2">Registrar</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
